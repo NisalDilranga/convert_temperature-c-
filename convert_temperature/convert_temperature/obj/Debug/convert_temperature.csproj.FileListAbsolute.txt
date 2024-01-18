@@ -1,0 +1,11 @@
+C:\Users\Vista\source\repos\convert_temperature\convert_temperature\bin\Debug\convert_temperature.exe.config
+C:\Users\Vista\source\repos\convert_temperature\convert_temperature\bin\Debug\convert_temperature.exe
+C:\Users\Vista\source\repos\convert_temperature\convert_temperature\bin\Debug\convert_temperature.pdb
+C:\Users\Vista\source\repos\convert_temperature\convert_temperature\obj\Debug\convert_temperature.csproj.AssemblyReference.cache
+C:\Users\Vista\source\repos\convert_temperature\convert_temperature\obj\Debug\convert_temperature.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vista\source\repos\convert_temperature\convert_temperature\obj\Debug\convert_temperature.Properties.Resources.resources
+C:\Users\Vista\source\repos\convert_temperature\convert_temperature\obj\Debug\convert_temperature.csproj.GenerateResource.cache
+C:\Users\Vista\source\repos\convert_temperature\convert_temperature\obj\Debug\convert_temperature.csproj.CoreCompileInputs.cache
+C:\Users\Vista\source\repos\convert_temperature\convert_temperature\obj\Debug\convert_temperature.exe
+C:\Users\Vista\source\repos\convert_temperature\convert_temperature\obj\Debug\convert_temperature.pdb
+C:\Users\Vista\source\repos\convert_temperature\convert_temperature\obj\Debug\convert_temperature.Form1.resources
